@@ -1,0 +1,10 @@
+
+firebase-admin.json file is send in message
+
+install dependency
+npm install
+
+run project 
+npm start
+
+when index.js file is changed, save it and run project again
