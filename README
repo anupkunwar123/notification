@@ -1,5 +1,5 @@
 
-firebase-admin.json file is send in message
+firebase-admin.json required
 
 #install dependency
 npm install
